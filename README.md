@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I get boring when I'm hungry**
 
+- 🤔 Think about **people are just machines with feelings**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaovitormororo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaovitormororo" height="30" width="40" /></a>
