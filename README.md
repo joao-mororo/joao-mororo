@@ -1,21 +1,35 @@
-# 💫 Sobre mim:
-Desenvolvedor Front-End localizado no Brasil<br>Trabalhando com React.js<br>Atualmente aprendendo Back-End com Node.js
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=João+Vitor&color=0d6efd&height=250&section=header&fontColor=ffffff"/>
+
+<p align="center">I'm a highly skilled and experienced front-end developer with over 2 years of experience in website development projects. I have a particular interest in responsive websites and creating intuitive and dynamic user experiences. Always focused on offering complete and effective solutions for my clients' projects.
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joao-mororo&show_icons=true&count_private=true&hide_border=true&title_color=0d6efd&icon_color=0d6efd&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-mororo&layout=compact&hide_border=true&title_color=0d6efd&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joao-mororo&theme=react-dark)
 
 
-## 🌐 Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sleepy#7820) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitormororo) 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joao-mororo&theme=algolia&row=1&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
-# 💻 Tecnologias:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=joao-mororo&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joao-mororo&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-mororo&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="joao-mororo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="joao-mororo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="joao-mororo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="joao-mororo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="joao-mororo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="joao-mororo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
 
-### ✍️ Uma frase legal:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br />
 
----
-[![](https://visitcount.itsvg.in/api?id=joao-mororo&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center"> 
+  <a href="https://www.instagram.com/hildodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaovitormororo2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaovitormororo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=120&section=footer" />
